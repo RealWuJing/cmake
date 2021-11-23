@@ -1,0 +1,4 @@
+/home/wujing/code/CPlusPlusLearning/cmake/PUBLIC_PRIVATE_INTERFACE/demo/build/CMakeFiles/rebuild_cache.dir
+/home/wujing/code/CPlusPlusLearning/cmake/PUBLIC_PRIVATE_INTERFACE/demo/build/CMakeFiles/hello.dir
+/home/wujing/code/CPlusPlusLearning/cmake/PUBLIC_PRIVATE_INTERFACE/demo/build/CMakeFiles/edit_cache.dir
+/home/wujing/code/CPlusPlusLearning/cmake/PUBLIC_PRIVATE_INTERFACE/demo/build/CMakeFiles/main.dir

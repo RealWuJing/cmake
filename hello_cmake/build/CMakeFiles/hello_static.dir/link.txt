@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libhello_static.a  CMakeFiles/hello_static.dir/src/hello.cpp.o
+/usr/bin/ranlib lib/libhello_static.a

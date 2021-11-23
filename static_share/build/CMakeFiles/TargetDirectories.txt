@@ -1,0 +1,6 @@
+/home/wujing/code/CPlusPlusLearning/cmake/static_share/build/CMakeFiles/rebuild_cache.dir
+/home/wujing/code/CPlusPlusLearning/cmake/static_share/build/CMakeFiles/edit_cache.dir
+/home/wujing/code/CPlusPlusLearning/cmake/static_share/build/lib_testFunc/CMakeFiles/rebuild_cache.dir
+/home/wujing/code/CPlusPlusLearning/cmake/static_share/build/lib_testFunc/CMakeFiles/edit_cache.dir
+/home/wujing/code/CPlusPlusLearning/cmake/static_share/build/lib_testFunc/CMakeFiles/testFunc_shared.dir
+/home/wujing/code/CPlusPlusLearning/cmake/static_share/build/lib_testFunc/CMakeFiles/testFunc_static.dir

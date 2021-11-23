@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wujing/code/CPlusPlusLearning/cmake/static_share/lib_testFunc/testFunc.c
+stdio.h
+-
+testFunc.h
+/home/wujing/code/CPlusPlusLearning/cmake/static_share/lib_testFunc/testFunc.h
+
+/home/wujing/code/CPlusPlusLearning/cmake/static_share/lib_testFunc/testFunc.h
+

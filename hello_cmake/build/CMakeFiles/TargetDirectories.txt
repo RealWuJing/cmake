@@ -1,0 +1,4 @@
+/home/wujing/code/CPlusPlusLearning/cmake/hello_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/wujing/code/CPlusPlusLearning/cmake/hello_cmake/build/CMakeFiles/edit_cache.dir
+/home/wujing/code/CPlusPlusLearning/cmake/hello_cmake/build/CMakeFiles/hello.dir
+/home/wujing/code/CPlusPlusLearning/cmake/hello_cmake/build/CMakeFiles/hello_static.dir
